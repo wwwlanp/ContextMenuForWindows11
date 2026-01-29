@@ -14,7 +14,7 @@
     },
     "icon": {
       "type": "string",
-      "description": "Menu icon path. Can be .ico file or EXE/DLL file with index,no supports environment variables (e.g. C:\\Program Files\\7-Zip\\7zFM.exe,0 or C:\\WINDOWS\\System32\\SHELL32.dll,196)."
+      "description": "Menu icon path. Can be .ico file or EXE/DLL file with index,supports environment variables (e.g. %LocalAppData%), (e.g. C:\\Program Files\\7-Zip\\7zFM.exe,0 or C:\\WINDOWS\\System32\\SHELL32.dll,196)."
     },
     "iconDark": { "type": "string", "description": "Menu icon path for dark mode." },
     "acceptDirectory": {
