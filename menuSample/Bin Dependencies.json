@@ -1,0 +1,17 @@
+{
+  "title": "Bin Dependencies",
+  "index": 0,
+  "exe": "cmd",
+  "param": "cmd /k \"\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\dumpbin.exe\" /DEPENDENTS \"{path}\"\"",
+  "icon": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\devenv.exe\",0",
+  "iconDark": "",
+  "acceptDirectoryFlag": 0,
+  "acceptFileFlag": 3,
+  "acceptExts": ".dll|.exe|.com",
+  "acceptFileRegex": "",
+  "acceptMultipleFilesFlag": 1,
+  "pathDelimiter": "",
+  "paramForMultipleFiles": "",
+  "showWindowFlag": 0,
+  "workingDirectory": "{parent}"
+}

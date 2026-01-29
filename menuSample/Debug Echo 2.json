@@ -1,1 +1,15 @@
-{"title":"Debug Echo 2","exe":"customeContextMenuDebug.exe","param":"{path}","icon":"","index":2,"acceptDirectory":true,"acceptExts":"","acceptFileFlag":0,"acceptFileRegex":"","acceptMultipleFilesFlag":2,"pathDelimiter":",","paramForMultipleFiles":"{path}"}
+{
+  "title": "Debug Echo 2",
+  "index": 2,
+  "exe": "customeContextMenuDebug.exe",
+  "param": "{path}",
+  "icon": "",
+  "acceptDirectoryFlag": 15,
+  "acceptFileFlag": 0,
+  "acceptExts": "",
+  "acceptFileRegex": "",
+  "acceptMultipleFilesFlag": 2,
+  "pathDelimiter": ",",
+  "paramForMultipleFiles": "{path}",
+  "showWindowFlag": 0
+}

@@ -1,0 +1,15 @@
+{
+  "title": "NVIDIA Control",
+  "index": 100,
+  "exe": "explorer.exe ",
+  "param": "shell:AppsFolder\\NVIDIACorp.NVIDIAControlPanel_56jybvy8sckqj!NVIDIACorp.NVIDIAControlPanel",
+  "icon": "\"C:\\Program Files\\WindowsApps\\NVIDIACorp.NVIDIAControlPanel_8.1.964.0_x64__56jybvy8sckqj\\nvcplui.exe\",0",
+  "acceptDirectoryFlag": 4,
+  "acceptFileFlag": 0,
+  "acceptExts": "",
+  "acceptFileRegex": "",
+  "acceptMultipleFilesFlag": 0,
+  "pathDelimiter": "",
+  "paramForMultipleFiles": "",
+  "showWindowFlag": 0
+}

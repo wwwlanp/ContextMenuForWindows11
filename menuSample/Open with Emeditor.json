@@ -1,0 +1,15 @@
+{
+  "title": "Open with Emeditor",
+  "index": 0,
+  "exe": "emeditor.exe",
+  "param": "\"{path}\"",
+  "icon": "",
+  "acceptDirectoryFlag": 15,
+  "acceptFileFlag": 4,
+  "acceptExts": "*",
+  "acceptFileRegex": "",
+  "acceptMultipleFilesFlag": 1,
+  "pathDelimiter": " ",
+  "paramForMultipleFiles": "",
+  "showWindowFlag": 0
+}

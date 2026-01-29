@@ -1,0 +1,15 @@
+{
+  "title": "Git Sync",
+  "index": 30,
+  "exe": "\"C:\\Program Files\\TortoiseGit\\bin\\TortoiseGitProc.exe\"",
+  "param": "/command:sync /path:\"{path}\"",
+  "icon": "\"C:\\Program Files\\TortoiseGit\\bin\\TortoiseGitProc.exe\",0",
+  "acceptDirectoryFlag": 3,
+  "acceptFileFlag": 0,
+  "acceptExts": "*",
+  "acceptFileRegex": "",
+  "acceptMultipleFilesFlag": 0,
+  "pathDelimiter": "",
+  "paramForMultipleFiles": "",
+  "showWindowFlag": 0
+}

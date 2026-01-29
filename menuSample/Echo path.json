@@ -1,1 +1,15 @@
-{"title":"Echo path","exe":"Powershell","param":" -noexit echo  '{path}'","icon":"","index":4,"acceptDirectory":true,"acceptExts":"*","acceptFileFlag":1,"acceptFileRegex":"","acceptMultipleFilesFlag":2,"pathDelimiter":"','","paramForMultipleFiles":" -noexit echo  '{path}'"}
+{
+  "title": "Echo path",
+  "index": 4,
+  "exe": "Powershell",
+  "param": " -noexit echo  '{path}'",
+  "icon": "",
+  "acceptDirectoryFlag": 15,
+  "acceptFileFlag": 4,
+  "acceptExts": "*",
+  "acceptFileRegex": "",
+  "acceptMultipleFilesFlag": 2,
+  "pathDelimiter": "','",
+  "paramForMultipleFiles": " -noexit echo  '{path}'",
+  "showWindowFlag": 0
+}

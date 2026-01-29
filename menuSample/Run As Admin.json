@@ -1,0 +1,10 @@
+{
+  "title": "Open Cmd As Admin",
+  "index": 0,
+  "exe": "sudo.exe",
+  "param": "cmd.exe /s /k pushd  \"{path}\"",
+  "acceptDirectoryFlag": 15,
+  "acceptFileFlag": 0,
+  "acceptMultipleFilesFlag": 0,
+  "showWindowFlag": 0
+}

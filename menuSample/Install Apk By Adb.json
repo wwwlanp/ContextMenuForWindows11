@@ -1,1 +1,15 @@
-{"title":"Install Apk By Adb","exe":"PowerShell","param":" -noexit adb install -r -t \\\"{path}\\\"","icon":"","index":32,"acceptDirectory":false,"acceptExts":".apk","acceptFileFlag":1,"acceptFileRegex":"","acceptMultipleFilesFlag":1,"pathDelimiter":"","paramForMultipleFiles":""}
+{
+  "title": "Install Apk By Adb",
+  "index": 32,
+  "exe": "PowerShell",
+  "param": " -noexit adb install -r -t \\\"{path}\\\"",
+  "icon": "",
+  "acceptDirectoryFlag": 0,
+  "acceptFileFlag": 3,
+  "acceptExts": ".apk",
+  "acceptFileRegex": "",
+  "acceptMultipleFilesFlag": 1,
+  "pathDelimiter": "",
+  "paramForMultipleFiles": "",
+  "showWindowFlag": 0
+}

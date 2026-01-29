@@ -1,0 +1,15 @@
+{
+  "title": "Open with 7z",
+  "index": 20,
+  "exe": "\"%ProgramFiles%\\7-Zip\\7zFM.exe\"",
+  "param": "\"{path}\"",
+  "icon": "\"%ProgramFiles%\\7-Zip\\7zFM.exe\",0",
+  "acceptDirectoryFlag": 0,
+  "acceptFileFlag": 4,
+  "acceptExts": "*",
+  "acceptFileRegex": "",
+  "acceptMultipleFilesFlag": 1,
+  "pathDelimiter": " ",
+  "paramForMultipleFiles": "",
+  "showWindowFlag": 0
+}
